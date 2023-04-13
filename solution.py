@@ -7,7 +7,7 @@ def solution(x: np.array, y: np.array) -> bool:
     # Измените код этой функции
     # Это будет вашим решением
     # Не меняйте название функции и её аргументы
-    alpha = 0.06
+    alpha = 0.05
     xm=x.mean()
     ym=y.mean()
     xd=x.var()
